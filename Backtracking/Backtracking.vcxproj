@@ -151,6 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Bracket.h" />
+    <ClInclude Include="Dividers.h" />
+    <ClInclude Include="GirlsProblem.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
